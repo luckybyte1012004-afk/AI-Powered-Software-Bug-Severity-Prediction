@@ -1,0 +1,201 @@
+Bug_ID,Module,Bug_Type,Crash,Affected_Users,Reports_Per_Day,Reproducible,Device,Severity
+1,File Upload,Document Upload Timeout,No,495,99,Sometimes,Desktop,Medium
+2,Checkout,Coupon Message Delay,No,68,8,Rarely,Web,Low
+3,Authentication,Crash,Yes,55986,377,Always,Mobile,Critical
+4,Profile,Avatar Alignment Issue,No,7,2,Rarely,Desktop,Low
+5,Notifications,Notification Delay,No,748,12,Rarely,Desktop,Medium
+6,Cart,Crash,Yes,22222,875,Always,Desktop,Critical
+7,Cart,Cart Refresh Failure,No,7668,103,Sometimes,Desktop,High
+8,Checkout,Checkout Timeout,No,12888,159,Sometimes,Web,High
+9,Login,Login Animation Delay,No,29,10,Sometimes,Mobile,Low
+10,Checkout,Checkout Loading Issue,No,234,88,Sometimes,Web,Medium
+11,Database,Crash,Yes,93562,753,Always,Web,Critical
+12,Search,Search Icon Issue,No,57,9,Rarely,Desktop,Low
+13,Database,Database Error,No,2054,51,Sometimes,Web,High
+14,Profile,Crash,No,134411,985,Always,Tablet,Critical
+15,Authentication,Authentication Error,Yes,1310,292,Always,Mobile,High
+16,Database,Database Error,No,5365,193,Sometimes,Web,High
+17,Authentication,Authentication Error,Yes,15170,79,Always,Mobile,High
+18,Database,Crash,Yes,26929,857,Always,Web,Critical
+19,Authentication,Crash,Yes,22859,848,Always,Mobile,Critical
+20,Payment,Payment Failure,Yes,5894,50,Always,Mobile,High
+21,Authentication,Session Timeout,No,412,60,Always,Mobile,Medium
+22,Reports,Crash,No,134144,874,Always,Tablet,Critical
+23,Payment,Receipt Formatting Issue,No,14,11,Sometimes,Mobile,Low
+24,Authentication,Crash,Yes,22525,876,Always,Mobile,Critical
+25,Payment,Crash,Yes,24534,658,Always,Mobile,Critical
+26,Authentication,Login Hint Display Issue,No,57,15,Sometimes,Mobile,Low
+27,Notifications,Notification Sound Delay,No,19,16,Rarely,Web,Low
+28,Login,Remember Me UI Issue,No,49,17,Sometimes,Mobile,Low
+29,Login,Login Failure,No,19869,259,Always,Mobile,High
+30,Cart,Quantity Update Delay,No,191,86,Sometimes,Web,Medium
+31,Database,Crash,Yes,62626,957,Always,Web,Critical
+32,Authentication,Authentication Message Delay,No,82,18,Sometimes,Mobile,Low
+33,Login,Crash,Yes,2229,654,Always,Web,Critical
+34,Notifications,Reminder Failure,No,5852,84,Sometimes,Desktop,High
+35,Login,Crash,Yes,29597,957,Always,Web,Critical
+36,Checkout,Checkout Delay,No,250,35,Sometimes,Web,Medium
+37,File Upload,Crash,No,245252,499,Always,Desktop,Critical
+38,Profile,Profile UI Delay,No,42,2,Rarely,Desktop,Low
+39,Payment,Crash,Yes,12000,850,Always,Mobile,Critical
+40,API,Minor API Delay,No,16,3,Sometimes,Mobile,Low
+41,Login,Crash,Yes,296186,846,Always,Web,Critical
+42,API,Crash,Yes,24522,785,Always,Desktop,Critical
+43,Database,Crash,Yes,215629,799,Always,Web,Critical
+44,API,Crash,Yes,24522,676,Always,Desktop,Critical
+45,API,API Response Delay,No,464,89,Sometimes,Web,Medium
+46,Profile,Crash,No,14411,568,Always,Tablet,Critical
+47,Reports,Export Failure,No,8788,151,Sometimes,Tablet,High
+48,Database,Database Error,No,1132,163,Sometimes,Web,High
+49,Search,Crash,No,144411,356,Always,Tablet,Critical
+50,Checkout,Checkout UI Alignment,No,96,4,Rarely,Web,Low
+51,File Upload,Upload Progress Stuck,No,950,96,Sometimes,Desktop,Medium
+52,Cart,Cart Loading Delay,No,698,12,Sometimes,Web,Medium
+53,API,API Response Formatting,No,35,17,Sometimes,Mobile,Low
+54,Checkout,Checkout Timeout,No,3095,100,Sometimes,Web,High
+55,Database,Crash,Yes,6485,986,Always,Web,Critical
+56,Cart,Cart Animation Issue,No,61,5,Rarely,Web,Low
+57,Search,Crash,No,14441,589,Always,Tablet,Critical
+58,Login,Login Page Alignment Issue,No,72,19,Sometimes,Mobile,Low
+59,Payment,Crash,Yes,9876,644,Always,Mobile,Critical
+60,Login,Login Failure,No,18221,247,Always,Mobile,High
+61,File Upload,File Validation Delay,No,726,48,Sometimes,Desktop,Medium
+62,Profile,Profile Sync Failure,No,11195,208,Sometimes,Tablet,High
+63,Login,Remember Me Failure,No,433,74,Sometimes,Mobile,Medium
+64,Database,Minor Data Sync Delay,No,88,10,Sometimes,Mobile,Low
+65,File Upload,File Upload Failure,No,5301,144,Sometimes,Desktop,High
+66,Payment,Payment Status Not Updated,Yes,599,81,Always,Mobile,Medium
+67,Checkout,Checkout Timeout,No,14448,221,Sometimes,Web,High
+68,Checkout,Checkout Timeout,No,10759,166,Sometimes,Web,High
+69,Database,Database Cache Refresh Delay,No,4,19,Sometimes,Mobile,Low
+70,Login,Crash,Yes,250562,957,Always,Web,Critical
+71,File Upload,Unsupported File Error,No,11302,113,Sometimes,Desktop,High
+72,Cart,Cart Sync Failure,No,1271,134,Sometimes,Desktop,High
+73,Cart,Wishlist Sync Delay,No,23,3,Rarely,Web,Low
+74,API,Crash,Yes,24565,957,Always,Desktop,Critical
+75,Payment,Crash,Yes,58262,848,Always,Mobile,Critical
+76,API,API Error,No,7272,130,Sometimes,Web,High
+77,Login,Crash,Yes,134322,524,Always,Mobile,Critical
+78,Cart,Cart Badge Delay,No,25,3,Rarely,Web,Low
+79,Settings,Settings Icon Issue,No,68,7,Rarely,Tablet,Low
+80,Login,Login Failure,No,12576,257,Always,Mobile,High
+81,Payment,Payment Confirmation Delay,Yes,275,50,Always,Mobile,Medium
+82,Notifications,Badge Count Delay,No,83,6,Rarely,Web,Low
+83,Login,Login Failure,No,5141,68,Always,Mobile,High
+84,Payment,Payment Failure,Yes,2047,224,Always,Mobile,High
+85,Payment,Receipt Generation Delay,Yes,666,62,Always,Mobile,Medium
+86,Login,Login Button Color Issue,No,60,18,Sometimes,Mobile,Low
+87,Login,Login Failure,No,9607,109,Always,Mobile,High
+88,Payment,Payment Failure,Yes,7565,187,Always,Mobile,High
+89,Cart,Crash,No,20000,456,Always,Desktop,Critical
+90,Payment,Crash,Yes,34567,654,Always,Mobile,Critical
+91,Profile,Profile Loading Delay,No,103,86,Rarely,Tablet,Medium
+92,Notifications,Crash,No,24524,564,Always,Desktop,Critical
+93,Cart,Cart Icon Delay,No,16,14,Rarely,Web,Low
+94,API,API Version Mismatch,No,805,82,Sometimes,Web,Medium
+95,Search,Search Filter Delay,No,715,94,Rarely,Tablet,Medium
+96,API,API Rate Limit Error,No,960,46,Sometimes,Web,Medium
+97,Database,Database Cache Issue,No,636,44,Sometimes,Mobile,Medium
+98,Database,Database Error,No,6521,244,Sometimes,Web,High
+99,File Upload,Image Upload Delay,No,331,90,Sometimes,Desktop,Medium
+100,File Upload,Upload Success Message Delay,No,50,10,Rarely,Web,Low
+101,Database,Record Display Delay,No,56,8,Sometimes,Mobile,Low
+102,API,API Message Issue,No,96,1,Sometimes,Mobile,Low
+103,File Upload,Upload Validation Error,No,6240,267,Sometimes,Desktop,High
+104,Payment,Payment Failure,Yes,14505,174,Always,Mobile,High
+105,Login,Login Failure,No,16766,231,Always,Mobile,High
+106,API,API Log Delay,No,12,16,Sometimes,Mobile,Low
+107,Authentication,Token Refresh Delay,No,553,98,Always,Mobile,Medium
+108,Payment,Currency Symbol Issue,No,3,10,Sometimes,Mobile,Low
+109,Authentication,Crash,Yes,55855,489,Always,Mobile,Critical
+110,Search,Search History Delay,No,68,16,Rarely,Desktop,Low
+111,Authentication,Authentication Error,Yes,10841,101,Always,Mobile,High
+112,Checkout,Coupon Validation Delay,No,805,31,Sometimes,Web,Medium
+113,Reports,Export Failure,No,9617,267,Sometimes,Tablet,High
+114,Notifications,Reminder Display Delay,No,70,12,Rarely,Desktop,Low
+115,File Upload,Crash,No,23425,478,Always,Desktop,Critical
+116,API,API Error,No,7868,279,Sometimes,Web,High
+117,Profile,Profile Update Delay,No,200,94,Rarely,Tablet,Medium
+118,Login,Login Failure,No,3631,205,Sometimes,Mobile,High
+119,Notifications,Crash,No,24252,857,Always,Desktop,Critical
+120,Database,Database Connection Delay,No,965,26,Sometimes,Mobile,Medium
+121,Authentication,Authentication Sync Delay,No,923,83,Always,Mobile,Medium
+122,Login,Login Delay,No,365,71,Sometimes,Mobile,Medium
+123,Help,Help Page Loading Delay,No,5,16,Rarely,Tablet,Low
+124,Cart,Cart Sync Delay,No,417,33,Sometimes,Web,Medium
+125,Notifications,SMS Notification Delay,No,353,53,Rarely,Desktop,Medium
+126,Database,Database Log Delay,No,93,6,Sometimes,Mobile,Low
+127,Cart,Cart Loading Failure,No,16068,73,Sometimes,Desktop,High
+128,Checkout,Checkout Animation Issue,No,65,6,Rarely,Web,Low
+129,Payment,Crash,Yes,25212,254,Always,Mobile,Critical
+130,Authentication,Authentication Error,No,19666,280,Always,Mobile,High
+131,Payment,Payment Failure,Yes,1078,174,Always,Mobile,High
+132,Payment,Payment Delay,Yes,838,47,Always,Mobile,Medium
+133,Cart,Item Removal Delay,No,157,79,Sometimes,Web,Medium
+134,File Upload,Preview Delay,No,61,4,Rarely,Web,Low
+135,Notifications,Push Notification Delay,No,401,63,Rarely,Desktop,Medium
+136,API,API Data Sync Delay,No,549,39,Sometimes,Web,Medium
+137,Checkout,Checkout Timeout,No,9958,246,Sometimes,Web,High
+138,Search,Search Delay,No,507,15,Rarely,Tablet,Medium
+139,Search,Filter UI Issue,No,23,20,Rarely,Desktop,Low
+140,Profile,Bio Update Delay,No,16,11,Rarely,Desktop,Low
+141,Notifications,Email Notification Delay,No,431,14,Rarely,Desktop,Medium
+142,Authentication,Crash,Yes,52525,456,Always,Mobile,Critical
+143,Authentication,Authentication Delay,No,484,37,Always,Mobile,Medium
+144,Authentication,Crash,Yes,69526,234,Always,Mobile,Critical
+145,Database,Slow Query Execution,No,791,80,Sometimes,Mobile,Medium
+146,Payment,Crash,Yes,46365,962,Always,Mobile,Critical
+147,API,API Error,No,1633,259,Sometimes,Web,High
+148,Database,Database Sync Delay,No,656,19,Sometimes,Mobile,Medium
+149,About,Version Display Delay,No,58,12,Rarely,Tablet,Low
+150,Profile,Profile Image Delay,No,298,89,Rarely,Tablet,Medium
+151,API,API Error,No,3938,105,Sometimes,Web,High
+152,Login,Login Redirect Error,No,320,70,Sometimes,Mobile,Medium
+153,API,Crash,Yes,24524,766,Always,Web,Critical
+154,Authentication,OTP UI Misalignment,No,41,19,Sometimes,Mobile,Low
+155,Payment,Crash,Yes,50000,999,Always,Mobile,Critical
+156,File Upload,Upload Progress UI Delay,No,97,19,Rarely,Web,Low
+157,Checkout,Shipping Cost Delay,No,172,40,Sometimes,Web,Medium
+158,File Upload,File Upload Delay,No,495,97,Sometimes,Desktop,Medium
+159,Authentication,Authentication Error,Yes,9886,175,Always,Mobile,High
+160,Authentication,Authentication Error,Yes,7652,65,Always,Mobile,High
+161,Cart,Cart Refresh Delay,No,613,13,Sometimes,Web,Medium
+162,API,API Error,No,9963,184,Sometimes,Web,High
+163,Login,Crash,Yes,26226,875,Always,Web,Critical
+164,About,About Page Alignment,No,81,14,Rarely,Tablet,Low
+165,Settings,Theme Switch Delay,No,58,11,Rarely,Desktop,Low
+166,Database,Crash,Yes,26292,487,Always,Web,Critical
+167,API,API Timeout,No,644,20,Sometimes,Web,Medium
+168,Payment,Payment History Display Issue,No,94,16,Sometimes,Mobile,Low
+169,Login,Login Timeout,No,179,93,Sometimes,Mobile,Medium
+170,Database,Database Error,No,9189,170,Sometimes,Web,High
+171,Database,Crash,Yes,24542,245,Always,Web,Critical
+172,Payment,Payment Failure,Yes,17775,211,Always,Mobile,High
+173,Authentication,Crash,Yes,89915,987,Always,Mobile,Critical
+174,Notifications,Notification Icon Delay,No,94,7,Rarely,Web,Low
+175,Profile,Profile Theme Delay,No,63,1,Rarely,Desktop,Low
+176,Payment,Payment Failure,Yes,19183,152,Always,Mobile,High
+177,Payment,Crash,Yes,42542,656,Always,Mobile,Critical
+178,Login,Crash,Yes,26928,456,Always,Web,Critical
+179,Payment,Minor Payment UI Issue,No,99,20,Sometimes,Mobile,Low
+180,Payment,Crash,Yes,15000,950,Always,Mobile,Critical
+181,API,Crash,Yes,24546,875,Always,Web,Critical
+182,File Upload,File Icon Issue,No,37,5,Rarely,Web,Low
+183,Checkout,Minor Checkout Display Issue,No,99,5,Rarely,Web,Low
+184,Checkout,Order Confirmation Delay,No,871,76,Sometimes,Web,Medium
+185,Search,Search Suggestion Delay,No,8,6,Rarely,Desktop,Low
+186,Authentication,Authentication Icon Issue,No,18,5,Sometimes,Mobile,Low
+187,Login,Crash,Yes,8285,999,Always,Mobile,Critical
+188,Notifications,Notification Sync Delay,No,805,36,Rarely,Desktop,Medium
+189,Cart,Crash,No,10000,975,Always,Desktop,Critical
+190,Settings,Settings Animation Delay,No,74,10,Rarely,Tablet,Low
+191,Search,Filter Failure,No,5784,131,Sometimes,Tablet,High
+192,Login,Multi-Device Login Delay,No,831,49,Sometimes,Mobile,Medium
+193,Authentication,Crash,Yes,98586,888,Always,Mobile,Critical
+194,Authentication,Authentication Error,Yes,8465,118,Always,Mobile,High
+195,Notifications,Reminder Failure,No,18209,180,Sometimes,Tablet,High
+196,Payment,Payment Pending,Yes,512,16,Always,Mobile,Medium
+197,Database,Record Update Delay,No,129,31,Sometimes,Mobile,Medium
+198,Payment,Payment Failure,Yes,8375,201,Always,Desktop,High
+199,Cart,Item Removal Failure,No,13894,287,Sometimes,Desktop,High
+200,Authentication,OTP Delay,No,679,22,Always,Mobile,Medium
